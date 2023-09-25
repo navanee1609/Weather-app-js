@@ -53,7 +53,7 @@ Special thanks to the OpenWeather API for providing free weather data.
 You can now copy and paste this code directly into your README.md file for your weather app project!
 
 
+![Weather--1](https://github.com/navanee1609/Weather-app-js/assets/120004894/ff387bc5-e848-4891-87b8-1ace4efde30f)
 
-[Weather--1](https://github.com/navanee1609/Weather-app-js/assets/120004894/3156c8d6-1b31-4d91-88be-cde2147690e6)
 ![Weather--2](https://github.com/navanee1609/Weather-app-js/assets/120004894/91da4fc3-b662-44dd-9bfd-79d9cf44e03d)
 ![weather--3](https://github.com/navanee1609/Weather-app-js/assets/120004894/b317216e-4657-4e3c-b126-5f333cbffdfd)
