@@ -51,7 +51,7 @@ document.querySelector(".wind").innerHTML=data.wind.speed + " km/hr";
 
 
 
-searchBtn.addEventListener("click",()=>{
+searchBtn.addEventListener('click',()=>{
     checkWeather(searchBox.value)
 
 })
